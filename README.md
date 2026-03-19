@@ -1,25 +1,15 @@
-👋 Olá, eu sou Matheus Moraes
+# 👋 Olá, eu sou Matheus Moraes
 
-💻 Desenvolvedor focado em JavaScript e Python
-🚀 Experiência com bots para Discord, automações e desenvolvimento web
+💻 O que eu faço:
+- Configuração completa de servidores
+- Setup de plugins (Essentials, LuckPerms, etc)
+- Otimização de performance (TPS, lag)
+- Integração com Discord (bots e automações)
 
-🛠️ Linguagens que uso
+🚀 Projetos:
+- ⚙️ Setup completo de servidor Minecraft
+- 🤖 Bot de integração com Discord
+- 📊 Scripts de automação e gerenciamento
 
-JavaScript (Node.js)
-Python
-
-🔥 Projetos em destaque
-
-🤖 Bots para Discord (moderação, comandos, automações)
-🌐 Sites responsivos (HTML, CSS, JavaScript)
-⚙️ Scripts e automações em Python
-
-📈 Atualmente evoluindo em
-
-Desenvolvimento Web avançado
-Criação de APIs
-Projetos para gerar renda online
-
-📫 Contato
-
-📸 Discord: matheuziin888 (matheuziin888)
+📫 Contato:
+- Discord: matheuziin888 (797262926288781315)
