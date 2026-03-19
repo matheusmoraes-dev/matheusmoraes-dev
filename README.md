@@ -15,7 +15,7 @@
 
 🧠 Experiência:
 Mesmo sem experiência profissional formal, venho estudando e praticando há bastante tempo, criando projetos próprios para evoluir minhas habilidades.
-Desenvolvi o servidor **Rankup Crystal**, focado em testes e aprimoramento de sistemas
+Desenvolvi o servidor **Rankup Crystal**, focado em testes e aprimoramento de sistemas.
 Criei o bot **Kairox**, com sistema de economia e integração com banco de dados (em desenvolvimento).
 
 📫 Contato:
