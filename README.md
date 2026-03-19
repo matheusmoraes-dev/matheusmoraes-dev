@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Olá, eu sou Matheus Moraes
 
-<!--
-**matheusmoraes-dev/matheusmoraes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em JavaScript e Python
+🚀 Experiência com bots para Discord, automações e desenvolvimento web
 
-Here are some ideas to get you started:
+🛠️ Linguagens que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript (Node.js)
+Python
+
+🔥 Projetos em destaque
+
+🤖 Bots para Discord (moderação, comandos, automações)
+🌐 Sites responsivos (HTML, CSS, JavaScript)
+⚙️ Scripts e automações em Python
+
+📈 Atualmente evoluindo em
+
+Desenvolvimento Web avançado
+Criação de APIs
+Projetos para gerar renda online
+
+📫 Contato
+
+📸 Discord: matheuziin888 (matheuziin888)
